@@ -1,8 +1,8 @@
-# Git exclusions
-# Developer 4 | Sprint 1
-# Path: .gitignore
-#
-# TODO: Add ignore rules for the virtual environment, Python caches, local configuration,
-# SQLite files and test artifacts. Confirm a local database and secrets stay out of Git.
-#
-# See docs/sprints/sprint-01.md for checklist steps.
+.venv/
+__pycache__/
+.env
+.env.*
+.nicegui/
+*.sqlite*
+*.db
+*.db-*
