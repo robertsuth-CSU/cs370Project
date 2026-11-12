@@ -1,8 +1,0 @@
--- Knowledge catalogue schema change
--- Developer 4 | Sprint 5
--- Path: backend/src/fin/db/migrations/0004_knowledge.sql
---
--- TODO: Add article IDs, title, body, source and publication metadata. Ensure repeatable
--- catalogue setup.
---
--- See docs/sprints/sprint-05.md for checklist steps.
