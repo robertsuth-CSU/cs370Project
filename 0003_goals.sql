@@ -1,0 +1,8 @@
+-- Goal and contribution schema change
+-- Developer 4 | Sprint 4
+-- Path: backend/src/fin/db/migrations/0003_goals.sql
+--
+-- TODO: Add owned goals and contribution rows with positive integer cents, foreign keys and
+-- indexes for owner and goal lookups.
+--
+-- See docs/sprints/sprint-04.md for checklist steps.

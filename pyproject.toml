@@ -1,0 +1,9 @@
+# Python package and tools
+# Developer 4 | Sprint 1
+# Path: backend/pyproject.toml
+#
+# TODO: Set up the installable src layout. Declare Python 3.12, FastAPI, the ASGI server and
+# test dependencies after agreeing on versions. Coordinate password hashing and email
+# validation dependencies with Developer 2.
+#
+# See docs/sprints/sprint-01.md for checklist steps.

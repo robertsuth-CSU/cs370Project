@@ -1,0 +1,9 @@
+-- Initial SQLite schema
+-- Developer 4 | Sprint 1
+-- Path: backend/src/fin/db/migrations/0001_users_and_transactions.sql
+--
+-- TODO: Define users, one Personal account per user and owned transactions with integer
+-- cents. Plan the kind, category and source fields for Sprint 2 income. Add uniqueness,
+-- foreign keys and an index for owner and date queries.
+--
+-- See docs/sprints/sprint-01.md for checklist steps.

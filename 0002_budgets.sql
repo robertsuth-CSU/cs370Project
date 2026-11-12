@@ -1,0 +1,8 @@
+-- Monthly budget schema change
+-- Developer 4 | Sprint 3
+-- Path: backend/src/fin/db/migrations/0002_budgets.sql
+--
+-- TODO: Add owned budgets and allocation rows. Enforce one budget per owner and month and one
+-- allocation per category within it.
+--
+-- See docs/sprints/sprint-03.md for checklist steps.
