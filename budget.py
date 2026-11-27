@@ -16,6 +16,7 @@ class BudgetResponse:
     data: list[dict] = field(default_factory=list)
     trace: list[str] = field(default_factory=list)
 
+#hello
 
 class FINDatabase:
     """Rightmost lifeline: manages SQLite persistence and duplicate checks."""
